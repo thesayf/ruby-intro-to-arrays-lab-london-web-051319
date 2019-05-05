@@ -20,7 +20,11 @@ def first_element(array)
 
 end
 
-def 
+def third_element(array)
+  
+  return array[2]
+  
+end
   
   
   
