@@ -1,1 +1,4 @@
-instantiate_new_array
+def create_an_empty_array
+  
+  
+end
