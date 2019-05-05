@@ -8,4 +8,4 @@ end
 
 def array_with_two_elements
   
-  my_two_array = [array_with_two_elements]
+  my_two_array = ["element1","element2"]
